@@ -7,8 +7,8 @@
 // @match        *://shopfloor.dalau.com:*/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/YOURUSERNAME/dalau-shopfloor-scripts/main/dalau_shopfloor_controls.user.js
-// @updateURL   https://raw.githubusercontent.com/YOURUSERNAME/dalau-shopfloor-scripts/main/dalau_shopfloor_controls.user.js
+// @downloadURL https://raw.githubusercontent.com/DalauIT/dalau-shopfloor-scripts/main/dalau_shopfloor_controls.user.js
+// @updateURL   https://raw.githubusercontent.com/DalauIT/dalau-shopfloor-scripts/main/dalau_shopfloor_controls.user.js
 // ==/UserScript==
 
 (function () {
@@ -103,4 +103,5 @@
     startWatching();
   }
 })();
+
 
